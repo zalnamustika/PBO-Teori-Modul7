@@ -8,7 +8,7 @@ KAMUS :
 
 i : integer
 
-day : array of String [0...day.length]
+day : array [0...day.length] of String 
 
 ALGORITMA 
 
