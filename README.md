@@ -13,8 +13,11 @@ day : array of String [0...day.length]
 ALGORITMA 
 
 while (i < 7) do
+
 output(day[i])
+
 i <- i+1
+
 end while
 
 END ALGORITMA
